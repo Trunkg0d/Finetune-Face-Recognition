@@ -1,0 +1,13 @@
+torch
+torchvision
+facenet-pytorch
+scikit-learn
+opencv-python
+matplotlib
+Pillow
+requests
+numpy
+Flask
+Flask-Cors
+tensorboard
+seaborn
